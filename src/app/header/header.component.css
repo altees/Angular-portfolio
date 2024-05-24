@@ -1,0 +1,18 @@
+.mat-toolbar {
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    color: #676a81;
+  }
+  
+  .spacer {
+    flex: 1 1 auto;
+  }
+  
+  .menu-items {
+    display: flex;
+    justify-content: flex-end;
+    color: #676a81;
+  }
+
+

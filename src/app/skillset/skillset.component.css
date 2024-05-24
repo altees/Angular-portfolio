@@ -1,0 +1,40 @@
+.example-card {
+    max-width: 400px;
+    margin-bottom: 8px;
+  }
+  .single-progress-txt {
+    display: flex;
+}
+.single-progress-txt h3 {
+    width: 10%;
+    color: #a606c3;
+    position: relative;
+    top: 6px;
+    left: 20px;
+}
+.barWrapper {
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.progress {
+    border-radius:3px;
+    overflow: visible;
+    background: #e6ecf3;
+    height:8px;
+    margin-top: 15px;
+    width: 85%;
+    margin-bottom: 37px;
+}
+.progress-bar {
+   background: #b636ff;
+    border-radius: 3px;
+   -webkit-transition: width 1.5s ease-in-out;
+   -ms-transition: width 1.5s ease-in-out;
+   -moz-transition: width 1.5s ease-in-out;
+   -o-transition: width 1.5s ease-in-out;
+   transition: width 1.5s ease-in-out;
+}
+
+.skill-content{padding: 20px 0 80px;}
+.single-skill-content{padding-top: 100px;}
